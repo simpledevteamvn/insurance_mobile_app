@@ -1,45 +1,7 @@
-# Flutter E-Commerce App Template
+# insurance_mobile_app
+Mobile application to manage certificates and insurance contracts. Used by insurance agents. There are functions to search for contracts, view contract details, browse contracts, etc.
+![image](https://github.com/simpledevteamvn/insurance_mobile_app/assets/171408811/519f311e-a02a-40c8-a4e5-1a1fd8c21cab)
+![image](https://github.com/simpledevteamvn/insurance_mobile_app/assets/171408811/4d7fa4a6-57aa-4b36-948b-f7cf82c6da9d)
+![image](https://github.com/simpledevteamvn/insurance_mobile_app/assets/171408811/a7f5178a-39aa-4e28-b01b-27b1d13e6be1)
+![image](https://github.com/simpledevteamvn/insurance_mobile_app/assets/171408811/2ee875ce-3cd7-4fc3-a722-c9210df4ddae)
 
- If you want to learn how to build this ecommerce template on Flutter [watch the playlist on YouTube](https://youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af), In the first video, we start by making a neat onboarding screen for our shopping app. This works on both Android and iOS because it's made with Flutter. In the next video, we tackle the 'Sign In' and 'Forgot Password' screens, adding some unique error messages. The third video covers the 'Sign Up' and OTP processes. The fourth one is fun – we create the main homepage. In the fifth, we dive into the product page, and in the sixth, we craft an order page with cool features like 'swipe to delete.' Finally, in the seventh video, we design the user profile page.
-
- Download the Flutter ecommerce app template for Free.
-
-
-### Video Preview of the Shop template
-
-![Preview](/intro.gif)
-
-## Screens it contains:
-
-=> Onboarding
-
-=> Login
-
-=> Forgot Password
-
-=> Sign Up
-
-=> Complete Profile
-
-=> OTP Verification
-
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile (added)
-
-=> Bottom Navigation Bar (added)
-
-Now it contains all the screen, thanks for your love and support 🙏 
-
-## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
